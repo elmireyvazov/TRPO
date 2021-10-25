@@ -3,7 +3,7 @@ name: 'User Story '
 about: Suggest an idea for this project
 title: ''
 labels: User Story
-assignees: ''
+assignees: o007oo07
 
 ---
 
